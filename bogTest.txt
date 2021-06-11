@@ -1,0 +1,51 @@
+Vaccines:
+{
+    "name":"Moderna",
+    "count":"10",
+    "company":"Moderna, Inc"
+}
+
+{
+    "name":"Pfizer-BioNTech",
+    "count":"25",
+    "company":"BioNTech SE"
+}
+
+{
+    "name":"Johnson & Johnson’s Janssen",
+    "count":"0",
+    "company":"Janssen"
+}
+
+{
+    "name":"AstraZeneca",
+    "count":"100",
+    "company":"AstraZeneca"
+}
+{
+    "name":"Sinopharm",
+    "count":"50",
+    "company":"Sinopharm Group"
+}
+
+Description:
+{
+    "name": "Moderna",
+    "sideEffect": "Pain,Redness,Swelling",
+    "shots": "2",
+    "minimumAge": "18",
+    "maximumAge": "",
+    "benefits": "94.1% effective",
+    "phone": "1-866-663-3762",
+    "website": "https://www.modernatx.com/"
+}
+User:
+{
+    "firstName": "Tamar",
+    "lastName":"Kobakhidze-Javakhishvili",
+    "phone":"558173242",
+    "email":"takoba18@freeuni.edu.ge",
+    "birthdate":"April 1,2000",
+    "vaccineId":"1"
+    
+}
